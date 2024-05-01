@@ -45,23 +45,22 @@ button{
 .button-pill1{
     background-color:#0EA293;
     color: #ffff;
-    outline: 0;
+    
 }
 
 .button-pill1:hover, .button-pill1:focus, .button-pill1:active{
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 24px 40px -12px #7ce7dd;
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
-}
+} 
 
 .button-pill2{
     background-color:#7B66FF;
     color: #ffff;
-    outline: 0;
 }
 
 .button-pill2:hover, .button-pill2:focus, .button-pill2:active{
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 24px 40px -12px #a093f5;
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
